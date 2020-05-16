@@ -1,2 +1,2 @@
 # flask-blog-server
-Blog on Flask framework, which would be built for my Coursework 2020
+I create this little backend part, for my Coursework in the University on the 3-d course.
